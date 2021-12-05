@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Button, Form, FormControl, FormLabel } from 'react-bootstrap'
+import { Form, FormControl, FormLabel } from 'react-bootstrap'
 
 export default class UpdateEmployee extends Component {
     render() {
